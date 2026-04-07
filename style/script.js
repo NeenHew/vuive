@@ -43,7 +43,7 @@ const fullText1 = (
   "Chúc em sinh nhật vui vẻ nha🎂"
 ).trim().split("\n");
 const fullText2 = (
-  "Tuổi mới nhiều hành phúc, niềm vui mới"
+  "Tuổi mới nhiều hạnh phúc và niềm vui mới"
 ).trim().split("\n");
 const fullText3 = splitLines("Ráng học lấy danh hiệu SV 5 tốt", 7);
 
